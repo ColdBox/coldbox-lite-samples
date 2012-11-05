@@ -1,4 +1,4 @@
-﻿component{
+﻿component {
 
 	// Configure ColdBox Application
 	function configure(){
@@ -12,19 +12,6 @@
 			reinitPassword			= "",
 			handlersIndexAutoReload = true,
 
-			//Implicit Events
-			defaultEvent			= "",
-			requestStartHandler		= "",
-			requestEndHandler		= "",
-			applicationStartHandler = "",
-			applicationEndHandler	= "",
-			sessionStartHandler 	= "",
-			sessionEndHandler		= "",
-			missingTemplateHandler	= "",
-	
-			//Error/Exception Handling
-			exceptionHandler		= "",
-			onInvalidEvent			= "",
 			customErrorTemplate		= "includes/error.cfm",
 	
 			//Application Aspects

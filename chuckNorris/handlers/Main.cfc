@@ -1,7 +1,7 @@
 /**
 * I am a main handler
 */
-component{
+component {
 
 	//injecting a model object from  wirebox
 	property name="joke" inject="id:joke";

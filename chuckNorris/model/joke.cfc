@@ -1,4 +1,4 @@
-component output="false" displayname=""  {
+component {
 
 	property name="jokeAPIURL" inject="coldbox:setting:jokeAPIURL";
 

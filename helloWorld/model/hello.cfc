@@ -1,4 +1,4 @@
-component output="false" displayname=""  {
+component {
 
 	public function init(){
 		return this;
